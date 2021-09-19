@@ -12,10 +12,10 @@ variables:
   azureSubscription: '6ffa2ad2-b6a1-45de-8043-7034ea105e8c'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'cursory'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'hubenv'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
